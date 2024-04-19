@@ -28,7 +28,7 @@ A aplicação consome uma API para exibir produtos e permitir que os usuários a
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Instalação
-1. Clone o repositório: `git clone (https://github.com/lucasgomesdacruz/DevLinktree.git)`
+1. Clone o repositório: `git clone (https://github.com/lucasgomesdacruz/InfoTech-E-commerce.git)`
 2. Navegue até o diretório do projeto
 3. Instale as dependências: `npm install`
 4. Inicie o servidor local (json-server): `json-server --watch db.json` 
