@@ -5,6 +5,12 @@
 Infotech é uma loja de comércio eletrônico desenvolvida em React com TypeScript, que utiliza Context API para gerenciamento de estado e React Router para navegação entre páginas. 
 A aplicação consome uma API para exibir produtos e permitir que os usuários adicionem itens ao carrinho de compras. Estilização é feita usando Tailwind CSS, proporcionando uma interface de usuário responsiva e moderna.
 
+## Detalhes do produto
+![image](https://github.com/lucasgomesdacruz/InfoTech-E-commerce/assets/112510742/a4a1ab66-3a34-441d-99e6-e276cfafc9a9) 
+## Carrinho de compras
+![image](https://github.com/lucasgomesdacruz/InfoTech-E-commerce/assets/112510742/2bf0050c-0441-4218-b7e8-86bb1ef03224)
+
+
 ## Funcionalidades Principais
 - **Visualização de Produtos**: Exibe produtos dinamicamente obtidos através de uma API.
 
